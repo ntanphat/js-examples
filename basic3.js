@@ -65,7 +65,7 @@ let fruits = ["banana","mango","pomegrante","apple"]
 console.log(fruits.sort())
 console.log(fruits.reverse())
 
-var scores1 = [12,003,19,16,14]
+//var scores1 = [12,003,19,16,14]
 // console.log(scores1.sort())
 // scores1.sort(function(a,b){
 //     return a-b
